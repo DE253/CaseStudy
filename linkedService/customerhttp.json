@@ -1,0 +1,12 @@
+{
+	"name": "customerhttp",
+	"properties": {
+		"annotations": [],
+		"type": "HttpServer",
+		"typeProperties": {
+			"url": "https://raw.githubusercontent.com/DE253/CaseStudy/refs/heads/develop/Data/customer.csv",
+			"enableServerCertificateValidation": true,
+			"authenticationType": "Anonymous"
+		}
+	}
+}
