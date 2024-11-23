@@ -1,0 +1,602 @@
+city_id,city,country_id,last_update
+1,A Corua (La Corua),87,9:27 AM
+2,Abha,82,10:27 AM
+3,Abu Dhabi,101,11:27 AM
+4,Acua,60,12:27 PM
+5,Adana,97,1:27 PM
+6,Addis Abeba,31,2:27 PM
+7,Aden,107,3:27 PM
+8,Adoni,44,4:27 PM
+9,Ahmadnagar,44,5:27 PM
+10,Akishima,50,6:27 PM
+11,Akron,103,7:27 PM
+12,al-Ayn,101,8:27 PM
+13,al-Hawiya,82,9:27 PM
+14,al-Manama,11,10:27 PM
+15,al-Qadarif,89,11:27 PM
+16,al-Qatif,82,12:27 AM
+17,Alessandria,49,1:27 AM
+18,Allappuzha (Alleppey),44,2:27 AM
+19,Allende,60,3:27 AM
+20,Almirante Brown,6,4:27 AM
+21,Alvorada,15,5:27 AM
+22,Ambattur,44,6:27 AM
+23,Amersfoort,67,7:27 AM
+24,Amroha,44,8:27 AM
+25,Angra dos Reis,15,9:27 AM
+26,Anpolis,15,10:27 AM
+27,Antofagasta,22,11:27 AM
+28,Aparecida de Goinia,15,12:27 PM
+29,Apeldoorn,67,1:27 PM
+30,Araatuba,15,2:27 PM
+31,Arak,46,3:27 PM
+32,Arecibo,77,4:27 PM
+33,Arlington,103,5:27 PM
+34,Ashdod,48,6:27 PM
+35,Ashgabat,98,7:27 PM
+36,Ashqelon,48,8:27 PM
+37,Asuncin,73,9:27 PM
+38,Athenai,39,10:27 PM
+39,Atinsk,80,11:27 PM
+40,Atlixco,60,12:27 AM
+41,Augusta-Richmond County,103,1:27 AM
+42,Aurora,103,2:27 AM
+43,Avellaneda,6,3:27 AM
+44,Bag,15,4:27 AM
+45,Baha Blanca,6,5:27 AM
+46,Baicheng,23,6:27 AM
+47,Baiyin,23,7:27 AM
+48,Baku,10,8:27 AM
+49,Balaiha,80,9:27 AM
+50,Balikesir,97,10:27 AM
+51,Balurghat,44,11:27 AM
+52,Bamenda,19,12:27 PM
+53,Bandar Seri Begawan,16,1:27 PM
+54,Banjul,37,2:27 PM
+55,Barcelona,104,3:27 PM
+56,Basel,91,4:27 PM
+57,Bat Yam,48,5:27 PM
+58,Batman,97,6:27 PM
+59,Batna,2,7:27 PM
+60,Battambang,18,8:27 PM
+61,Baybay,75,9:27 PM
+62,Bayugan,75,10:27 PM
+63,Bchar,2,11:27 PM
+64,Beira,63,12:27 AM
+65,Bellevue,103,1:27 AM
+66,Belm,15,2:27 AM
+67,Benguela,4,3:27 AM
+68,Beni-Mellal,62,4:27 AM
+69,Benin City,69,5:27 AM
+70,Bergamo,49,6:27 AM
+71,Berhampore (Baharampur),44,7:27 AM
+72,Bern,91,8:27 AM
+73,Bhavnagar,44,9:27 AM
+74,Bhilwara,44,10:27 AM
+75,Bhimavaram,44,11:27 AM
+76,Bhopal,44,12:27 PM
+77,Bhusawal,44,1:27 PM
+78,Bijapur,44,2:27 PM
+79,Bilbays,29,3:27 PM
+80,Binzhou,23,4:27 PM
+81,Birgunj,66,5:27 PM
+82,Bislig,75,6:27 PM
+83,Blumenau,15,7:27 PM
+84,Boa Vista,15,8:27 PM
+85,Boksburg,85,9:27 PM
+86,Botosani,78,10:27 PM
+87,Botshabelo,85,11:27 PM
+88,Bradford,102,12:27 AM
+89,Braslia,15,1:27 AM
+90,Bratislava,84,2:27 AM
+91,Brescia,49,3:27 AM
+92,Brest,34,4:27 AM
+93,Brindisi,49,5:27 AM
+94,Brockton,103,6:27 AM
+95,Bucuresti,78,7:27 AM
+96,Buenaventura,24,8:27 AM
+97,Bydgoszcz,76,9:27 AM
+98,Cabuyao,75,10:27 AM
+99,Callao,74,11:27 AM
+100,Cam Ranh,105,12:27 PM
+101,Cape Coral,103,1:27 PM
+102,Caracas,104,2:27 PM
+103,Carmen,60,3:27 PM
+104,Cavite,75,4:27 PM
+105,Cayenne,35,5:27 PM
+106,Celaya,60,6:27 PM
+107,Chandrapur,44,7:27 PM
+108,Changhwa,92,8:27 PM
+109,Changzhou,23,9:27 PM
+110,Chapra,44,10:27 PM
+111,Charlotte Amalie,106,11:27 PM
+112,Chatsworth,85,12:27 AM
+113,Cheju,86,1:27 AM
+114,Chiayi,92,2:27 AM
+115,Chisinau,61,3:27 AM
+116,Chungho,92,4:27 AM
+117,Cianjur,45,5:27 AM
+118,Ciomas,45,6:27 AM
+119,Ciparay,45,7:27 AM
+120,Citrus Heights,103,8:27 AM
+121,Citt del Vaticano,41,9:27 AM
+122,Ciudad del Este,73,10:27 AM
+123,Clarksville,103,11:27 AM
+124,Coacalco de Berriozbal,60,12:27 PM
+125,Coatzacoalcos,60,1:27 PM
+126,Compton,103,2:27 PM
+127,Coquimbo,22,3:27 PM
+128,Crdoba,6,4:27 PM
+129,Cuauhtmoc,60,5:27 PM
+130,Cuautla,60,6:27 PM
+131,Cuernavaca,60,7:27 PM
+132,Cuman,104,8:27 PM
+133,Czestochowa,76,9:27 PM
+134,Dadu,72,10:27 PM
+135,Dallas,103,11:27 PM
+136,Datong,23,12:27 AM
+137,Daugavpils,54,1:27 AM
+138,Davao,75,2:27 AM
+139,Daxian,23,3:27 AM
+140,Dayton,103,4:27 AM
+141,Deba Habe,69,5:27 AM
+142,Denizli,97,6:27 AM
+143,Dhaka,12,7:27 AM
+144,Dhule (Dhulia),44,8:27 AM
+145,Dongying,23,9:27 AM
+146,Donostia-San Sebastin,87,10:27 AM
+147,Dos Quebradas,24,11:27 AM
+148,Duisburg,38,12:27 PM
+149,Dundee,102,1:27 PM
+150,Dzerzinsk,80,2:27 PM
+151,Ede,67,3:27 PM
+152,Effon-Alaiye,69,4:27 PM
+153,El Alto,14,5:27 PM
+154,El Fuerte,60,6:27 PM
+155,El Monte,103,7:27 PM
+156,Elista,80,8:27 PM
+157,Emeishan,23,9:27 PM
+158,Emmen,67,10:27 PM
+159,Enshi,23,11:27 PM
+160,Erlangen,38,12:27 AM
+161,Escobar,6,1:27 AM
+162,Esfahan,46,2:27 AM
+163,Eskisehir,97,3:27 AM
+164,Etawah,44,4:27 AM
+165,Ezeiza,6,5:27 AM
+166,Ezhou,23,6:27 AM
+167,Faaa,36,7:27 AM
+168,Fengshan,92,8:27 AM
+169,Firozabad,44,9:27 AM
+170,Florencia,24,10:27 AM
+171,Fontana,103,11:27 AM
+172,Fukuyama,50,12:27 PM
+173,Funafuti,99,1:27 PM
+174,Fuyu,23,2:27 PM
+175,Fuzhou,23,3:27 PM
+176,Gandhinagar,44,4:27 PM
+177,Garden Grove,103,5:27 PM
+178,Garland,103,6:27 PM
+179,Gatineau,20,7:27 PM
+180,Gaziantep,97,8:27 PM
+181,Gijn,87,9:27 PM
+182,Gingoog,75,10:27 PM
+183,Goinia,15,11:27 PM
+184,Gorontalo,45,12:27 AM
+185,Grand Prairie,103,1:27 AM
+186,Graz,9,2:27 AM
+187,Greensboro,103,3:27 AM
+188,Guadalajara,60,4:27 AM
+189,Guaruj,15,5:27 AM
+190,guas Lindas de Gois,15,6:27 AM
+191,Gulbarga,44,7:27 AM
+192,Hagonoy,75,8:27 AM
+193,Haining,23,9:27 AM
+194,Haiphong,105,10:27 AM
+195,Haldia,44,11:27 AM
+196,Halifax,20,12:27 PM
+197,Halisahar,44,1:27 PM
+198,Halle/Saale,38,2:27 PM
+199,Hami,23,3:27 PM
+200,Hamilton,68,4:27 PM
+201,Hanoi,105,5:27 PM
+202,Hidalgo,60,6:27 PM
+203,Higashiosaka,50,7:27 PM
+204,Hino,50,8:27 PM
+205,Hiroshima,50,9:27 PM
+206,Hodeida,107,10:27 PM
+207,Hohhot,23,11:27 PM
+208,Hoshiarpur,44,12:27 AM
+209,Hsichuh,92,1:27 AM
+210,Huaian,23,2:27 AM
+211,Hubli-Dharwad,44,3:27 AM
+212,Huejutla de Reyes,60,4:27 AM
+213,Huixquilucan,60,5:27 AM
+214,Hunuco,74,6:27 AM
+215,Ibirit,15,7:27 AM
+216,Idfu,29,8:27 AM
+217,Ife,69,9:27 AM
+218,Ikerre,69,10:27 AM
+219,Iligan,75,11:27 AM
+220,Ilorin,69,12:27 PM
+221,Imus,75,1:27 PM
+222,Inegl,97,2:27 PM
+223,Ipoh,59,3:27 PM
+224,Isesaki,50,4:27 PM
+225,Ivanovo,80,5:27 PM
+226,Iwaki,50,6:27 PM
+227,Iwakuni,50,7:27 PM
+228,Iwatsuki,50,8:27 PM
+229,Izumisano,50,9:27 PM
+230,Jaffna,88,10:27 PM
+231,Jaipur,44,11:27 PM
+232,Jakarta,45,12:27 AM
+233,Jalib al-Shuyukh,53,1:27 AM
+234,Jamalpur,12,2:27 AM
+235,Jaroslavl,80,3:27 AM
+236,Jastrzebie-Zdrj,76,4:27 AM
+237,Jedda,82,5:27 AM
+238,Jelets,80,6:27 AM
+239,Jhansi,44,7:27 AM
+240,Jinchang,23,8:27 AM
+241,Jining,23,9:27 AM
+242,Jinzhou,23,10:27 AM
+243,Jodhpur,44,11:27 AM
+244,Johannesburg,85,12:27 PM
+245,Joliet,103,1:27 PM
+246,Jos Azueta,60,2:27 PM
+247,Juazeiro do Norte,15,3:27 PM
+248,Juiz de Fora,15,4:27 PM
+249,Junan,23,5:27 PM
+250,Jurez,60,6:27 PM
+251,Kabul,1,7:27 PM
+252,Kaduna,69,8:27 PM
+253,Kakamigahara,50,9:27 PM
+254,Kaliningrad,80,10:27 PM
+255,Kalisz,76,11:27 PM
+256,Kamakura,50,12:27 AM
+257,Kamarhati,44,1:27 AM
+258,Kamjanets-Podilskyi,100,2:27 AM
+259,Kamyin,80,3:27 AM
+260,Kanazawa,50,4:27 AM
+261,Kanchrapara,44,5:27 AM
+262,Kansas City,103,6:27 AM
+263,Karnal,44,7:27 AM
+264,Katihar,44,8:27 AM
+265,Kermanshah,46,9:27 AM
+266,Kilis,97,10:27 AM
+267,Kimberley,85,11:27 AM
+268,Kimchon,86,12:27 PM
+269,Kingstown,81,1:27 PM
+270,Kirovo-Tepetsk,80,2:27 PM
+271,Kisumu,52,3:27 PM
+272,Kitwe,109,4:27 PM
+273,Klerksdorp,85,5:27 PM
+274,Kolpino,80,6:27 PM
+275,Konotop,100,7:27 PM
+276,Koriyama,50,8:27 PM
+277,Korla,23,9:27 PM
+278,Korolev,80,10:27 PM
+279,Kowloon and New Kowloon,42,11:27 PM
+280,Kragujevac,108,12:27 AM
+281,Ktahya,97,1:27 AM
+282,Kuching,59,2:27 AM
+283,Kumbakonam,44,3:27 AM
+284,Kurashiki,50,4:27 AM
+285,Kurgan,80,5:27 AM
+286,Kursk,80,6:27 AM
+287,Kuwana,50,7:27 AM
+288,La Paz,60,8:27 AM
+289,La Plata,6,9:27 AM
+290,La Romana,27,10:27 AM
+291,Laiwu,23,11:27 AM
+292,Lancaster,103,12:27 PM
+293,Laohekou,23,1:27 PM
+294,Lapu-Lapu,75,2:27 PM
+295,Laredo,103,3:27 PM
+296,Lausanne,91,4:27 PM
+297,Le Mans,34,5:27 PM
+298,Lengshuijiang,23,6:27 PM
+299,Leshan,23,7:27 PM
+300,Lethbridge,20,8:27 PM
+301,Lhokseumawe,45,9:27 PM
+302,Liaocheng,23,10:27 PM
+303,Liepaja,54,11:27 PM
+304,Lilongwe,58,12:27 AM
+305,Lima,74,1:27 AM
+306,Lincoln,103,2:27 AM
+307,Linz,9,3:27 AM
+308,Lipetsk,80,4:27 AM
+309,Livorno,49,5:27 AM
+310,Ljubertsy,80,6:27 AM
+311,Loja,28,7:27 AM
+312,London,102,8:27 AM
+313,London,20,9:27 AM
+314,Lublin,76,10:27 AM
+315,Lubumbashi,25,11:27 AM
+316,Lungtan,92,12:27 PM
+317,Luzinia,15,1:27 PM
+318,Madiun,45,2:27 PM
+319,Mahajanga,57,3:27 PM
+320,Maikop,80,4:27 PM
+321,Malm,90,5:27 PM
+322,Manchester,103,6:27 PM
+323,Mandaluyong,75,7:27 PM
+324,Mandi Bahauddin,72,8:27 PM
+325,Mannheim,38,9:27 PM
+326,Maracabo,104,10:27 PM
+327,Mardan,72,11:27 PM
+328,Maring,15,12:27 AM
+329,Masqat,71,1:27 AM
+330,Matamoros,60,2:27 AM
+331,Matsue,50,3:27 AM
+332,Meixian,23,4:27 AM
+333,Memphis,103,5:27 AM
+334,Merlo,6,6:27 AM
+335,Mexicali,60,7:27 AM
+336,Miraj,44,8:27 AM
+337,Mit Ghamr,29,9:27 AM
+338,Miyakonojo,50,10:27 AM
+339,Mogiljov,13,11:27 AM
+340,Molodetno,13,12:27 PM
+341,Monclova,60,1:27 PM
+342,Monywa,64,2:27 PM
+343,Moscow,80,3:27 PM
+344,Mosul,47,4:27 PM
+345,Mukateve,100,5:27 PM
+346,Munger (Monghyr),44,6:27 PM
+347,Mwanza,93,7:27 PM
+348,Mwene-Ditu,25,8:27 PM
+349,Myingyan,64,9:27 PM
+350,Mysore,44,10:27 PM
+351,Naala-Porto,63,11:27 PM
+352,Nabereznyje Telny,80,12:27 AM
+353,Nador,62,1:27 AM
+354,Nagaon,44,2:27 AM
+355,Nagareyama,50,3:27 AM
+356,Najafabad,46,4:27 AM
+357,Naju,86,5:27 AM
+358,Nakhon Sawan,94,6:27 AM
+359,Nam Dinh,105,7:27 AM
+360,Namibe,4,8:27 AM
+361,Nantou,92,9:27 AM
+362,Nanyang,23,10:27 AM
+363,NDjamna,21,11:27 AM
+364,Newcastle,85,12:27 PM
+365,Nezahualcyotl,60,1:27 PM
+366,Nha Trang,105,2:27 PM
+367,Niznekamsk,80,3:27 PM
+368,Novi Sad,108,4:27 PM
+369,Novoterkassk,80,5:27 PM
+370,Nukualofa,95,6:27 PM
+371,Nuuk,40,7:27 PM
+372,Nyeri,52,8:27 PM
+373,Ocumare del Tuy,104,9:27 PM
+374,Ogbomosho,69,10:27 PM
+375,Okara,72,11:27 PM
+376,Okayama,50,12:27 AM
+377,Okinawa,50,1:27 AM
+378,Olomouc,26,2:27 AM
+379,Omdurman,89,3:27 AM
+380,Omiya,50,4:27 AM
+381,Ondo,69,5:27 AM
+382,Onomichi,50,6:27 AM
+383,Oshawa,20,7:27 AM
+384,Osmaniye,97,8:27 AM
+385,ostka,100,9:27 AM
+386,Otsu,50,10:27 AM
+387,Oulu,33,11:27 AM
+388,Ourense (Orense),87,12:27 PM
+389,Owo,69,1:27 PM
+390,Oyo,69,2:27 PM
+391,Ozamis,75,3:27 PM
+392,Paarl,85,4:27 PM
+393,Pachuca de Soto,60,5:27 PM
+394,Pak Kret,94,6:27 PM
+395,Palghat (Palakkad),44,7:27 PM
+396,Pangkal Pinang,45,8:27 PM
+397,Papeete,36,9:27 PM
+398,Parbhani,44,10:27 PM
+399,Pathankot,44,11:27 PM
+400,Patiala,44,12:27 AM
+401,Patras,39,1:27 AM
+402,Pavlodar,51,2:27 AM
+403,Pemalang,45,3:27 AM
+404,Peoria,103,4:27 AM
+405,Pereira,24,5:27 AM
+406,Phnom Penh,18,6:27 AM
+407,Pingxiang,23,7:27 AM
+408,Pjatigorsk,80,8:27 AM
+409,Plock,76,9:27 AM
+410,Po,15,10:27 AM
+411,Ponce,77,11:27 AM
+412,Pontianak,45,12:27 PM
+413,Poos de Caldas,15,1:27 PM
+414,Portoviejo,28,2:27 PM
+415,Probolinggo,45,3:27 PM
+416,Pudukkottai,44,4:27 PM
+417,Pune,44,5:27 PM
+418,Purnea (Purnia),44,6:27 PM
+419,Purwakarta,45,7:27 PM
+420,Pyongyang,70,8:27 PM
+421,Qalyub,29,9:27 PM
+422,Qinhuangdao,23,10:27 PM
+423,Qomsheh,46,11:27 PM
+424,Quilmes,6,12:27 AM
+425,Rae Bareli,44,1:27 AM
+426,Rajkot,44,2:27 AM
+427,Rampur,44,3:27 AM
+428,Rancagua,22,4:27 AM
+429,Ranchi,44,5:27 AM
+430,Richmond Hill,20,6:27 AM
+431,Rio Claro,15,7:27 AM
+432,Rizhao,23,8:27 AM
+433,Roanoke,103,9:27 AM
+434,Robamba,28,10:27 AM
+435,Rockford,103,11:27 AM
+436,Ruse,17,12:27 PM
+437,Rustenburg,85,1:27 PM
+438,s-Hertogenbosch,67,2:27 PM
+439,Saarbrcken,38,3:27 PM
+440,Sagamihara,50,4:27 PM
+441,Saint Louis,103,5:27 PM
+442,Saint-Denis,79,6:27 PM
+443,Sal,62,7:27 PM
+444,Salala,71,8:27 PM
+445,Salamanca,60,9:27 PM
+446,Salinas,103,10:27 PM
+447,Salzburg,9,11:27 PM
+448,Sambhal,44,12:27 AM
+449,San Bernardino,103,1:27 AM
+450,San Felipe de Puerto Plata,27,2:27 AM
+451,San Felipe del Progreso,60,3:27 AM
+452,San Juan Bautista Tuxtepec,60,4:27 AM
+453,San Lorenzo,73,5:27 AM
+454,San Miguel de Tucumn,6,6:27 AM
+455,Sanaa,107,7:27 AM
+456,Santa Brbara dOeste,15,8:27 AM
+457,Santa F,6,9:27 AM
+458,Santa Rosa,75,10:27 AM
+459,Santiago de Compostela,87,11:27 AM
+460,Santiago de los Caballeros,27,12:27 PM
+461,Santo Andr,15,1:27 PM
+462,Sanya,23,2:27 PM
+463,Sasebo,50,3:27 PM
+464,Satna,44,4:27 PM
+465,Sawhaj,29,5:27 PM
+466,Serpuhov,80,6:27 PM
+467,Shahr-e Kord,46,7:27 PM
+468,Shanwei,23,8:27 PM
+469,Shaoguan,23,9:27 PM
+470,Sharja,101,10:27 PM
+471,Shenzhen,23,11:27 PM
+472,Shikarpur,72,12:27 AM
+473,Shimoga,44,1:27 AM
+474,Shimonoseki,50,2:27 AM
+475,Shivapuri,44,3:27 AM
+476,Shubra al-Khayma,29,4:27 AM
+477,Siegen,38,5:27 AM
+478,Siliguri (Shiliguri),44,6:27 AM
+479,Simferopol,100,7:27 AM
+480,Sincelejo,24,8:27 AM
+481,Sirjan,46,9:27 AM
+482,Sivas,97,10:27 AM
+483,Skikda,2,11:27 AM
+484,Smolensk,80,12:27 PM
+485,So Bernardo do Campo,15,1:27 PM
+486,So Leopoldo,15,2:27 PM
+487,Sogamoso,24,3:27 PM
+488,Sokoto,69,4:27 PM
+489,Songkhla,94,5:27 PM
+490,Sorocaba,15,6:27 PM
+491,Soshanguve,85,7:27 PM
+492,Sousse,96,8:27 PM
+493,South Hill,5,9:27 PM
+494,Southampton,102,10:27 PM
+495,Southend-on-Sea,102,11:27 PM
+496,Southport,102,12:27 AM
+497,Springs,85,1:27 AM
+498,Stara Zagora,17,2:27 AM
+499,Sterling Heights,103,3:27 AM
+500,Stockport,102,4:27 AM
+501,Sucre,14,5:27 AM
+502,Suihua,23,6:27 AM
+503,Sullana,74,7:27 AM
+504,Sultanbeyli,97,8:27 AM
+505,Sumqayit,10,9:27 AM
+506,Sumy,100,10:27 AM
+507,Sungai Petani,59,11:27 AM
+508,Sunnyvale,103,12:27 PM
+509,Surakarta,45,1:27 PM
+510,Syktyvkar,80,2:27 PM
+511,Syrakusa,49,3:27 PM
+512,Szkesfehrvr,43,4:27 PM
+513,Tabora,93,5:27 PM
+514,Tabriz,46,6:27 PM
+515,Tabuk,82,7:27 PM
+516,Tafuna,3,8:27 PM
+517,Taguig,75,9:27 PM
+518,Taizz,107,10:27 PM
+519,Talavera,75,11:27 PM
+520,Tallahassee,103,12:27 AM
+521,Tama,50,1:27 AM
+522,Tambaram,44,2:27 AM
+523,Tanauan,75,3:27 AM
+524,Tandil,6,4:27 AM
+525,Tangail,12,5:27 AM
+526,Tanshui,92,6:27 AM
+527,Tanza,75,7:27 AM
+528,Tarlac,75,8:27 AM
+529,Tarsus,97,9:27 AM
+530,Tartu,30,10:27 AM
+531,Teboksary,80,11:27 AM
+532,Tegal,45,12:27 PM
+533,Tel Aviv-Jaffa,48,1:27 PM
+534,Tete,63,2:27 PM
+535,Tianjin,23,3:27 PM
+536,Tiefa,23,4:27 PM
+537,Tieli,23,5:27 PM
+538,Tokat,97,6:27 PM
+539,Tonghae,86,7:27 PM
+540,Tongliao,23,8:27 PM
+541,Torren,60,9:27 PM
+542,Touliu,92,10:27 PM
+543,Toulon,34,11:27 PM
+544,Toulouse,34,12:27 AM
+545,Trshavn,32,1:27 AM
+546,Tsaotun,92,2:27 AM
+547,Tsuyama,50,3:27 AM
+548,Tuguegarao,75,4:27 AM
+549,Tychy,76,5:27 AM
+550,Udaipur,44,6:27 AM
+551,Udine,49,7:27 AM
+552,Ueda,50,8:27 AM
+553,Uijongbu,86,9:27 AM
+554,Uluberia,44,10:27 AM
+555,Urawa,50,11:27 AM
+556,Uruapan,60,12:27 PM
+557,Usak,97,1:27 PM
+558,Usolje-Sibirskoje,80,2:27 PM
+559,Uttarpara-Kotrung,44,3:27 PM
+560,Vaduz,55,4:27 PM
+561,Valencia,104,5:27 PM
+562,Valle de la Pascua,104,6:27 PM
+563,Valle de Santiago,60,7:27 PM
+564,Valparai,44,8:27 PM
+565,Vancouver,20,9:27 PM
+566,Varanasi (Benares),44,10:27 PM
+567,Vicente Lpez,6,11:27 PM
+568,Vijayawada,44,12:27 AM
+569,Vila Velha,15,1:27 AM
+570,Vilnius,56,2:27 AM
+571,Vinh,105,3:27 AM
+572,Vitria de Santo Anto,15,4:27 AM
+573,Warren,103,5:27 AM
+574,Weifang,23,6:27 AM
+575,Witten,38,7:27 AM
+576,Woodridge,8,8:27 AM
+577,Wroclaw,76,9:27 AM
+578,Xiangfan,23,10:27 AM
+579,Xiangtan,23,11:27 AM
+580,Xintai,23,12:27 PM
+581,Xinxiang,23,1:27 PM
+582,Yamuna Nagar,44,2:27 PM
+583,Yangor,65,3:27 PM
+584,Yantai,23,4:27 PM
+585,Yaound,19,5:27 PM
+586,Yerevan,7,6:27 PM
+587,Yinchuan,23,7:27 PM
+588,Yingkou,23,8:27 PM
+589,York,102,9:27 PM
+590,Yuncheng,23,10:27 PM
+591,Yuzhou,23,11:27 PM
+592,Zalantun,23,12:27 AM
+593,Zanzibar,93,1:27 AM
+594,Zaoyang,23,2:27 AM
+595,Zapopan,60,3:27 AM
+596,Zaria,69,4:27 AM
+597,Zeleznogorsk,80,5:27 AM
+598,Zhezqazghan,51,6:27 AM
+599,Zhoushan,23,7:27 AM
+600,Ziguinchor,83,8:27 AM
+,,,
