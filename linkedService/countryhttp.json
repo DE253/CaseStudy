@@ -1,0 +1,12 @@
+{
+	"name": "countryhttp",
+	"properties": {
+		"annotations": [],
+		"type": "HttpServer",
+		"typeProperties": {
+			"url": "https://raw.githubusercontent.com/DE253/CaseStudy/refs/heads/develop/Data/country.csv",
+			"enableServerCertificateValidation": true,
+			"authenticationType": "Anonymous"
+		}
+	}
+}
