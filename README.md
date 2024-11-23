@@ -66,7 +66,7 @@ select * from Employees
 
     Added a scheduled trigger for every 15 days.
 
-    Validate and debug the pipeline. All the files moved to raw containe 
+    Validate and debug the pipeline. All the files moved to raw container. 
 
    
 
