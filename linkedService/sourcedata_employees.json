@@ -1,0 +1,23 @@
+{
+	"name": "sourcedata_employees",
+	"properties": {
+		"annotations": [],
+		"type": "AzureSqlDatabase",
+		"typeProperties": {
+			"server": "casesourcedb.database.windows.net",
+			"database": "sourcedatadb",
+			"encrypt": "mandatory",
+			"trustServerCertificate": false,
+			"authenticationType": "SQL",
+			"userName": "ncpluseradmin",
+			"password": {
+				"type": "AzureKeyVaultSecret",
+				"store": {
+					"referenceName": "sqldbkey",
+					"type": "LinkedServiceReference"
+				},
+				"secretName": "sqlbdpwd"
+			}
+		}
+	}
+}
