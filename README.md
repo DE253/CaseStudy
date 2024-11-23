@@ -68,10 +68,10 @@ select * from Employees
 
     Validate and debug the pipeline. All the files moved to raw containe 
 
-    ![image](https://github.com/user-attachments/assets/f8c1313b-2490-4d4d-9de4-89d3b3125185)
+   
 
 
-### 
+
 
 
 
