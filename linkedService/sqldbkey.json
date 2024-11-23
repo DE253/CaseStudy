@@ -1,0 +1,10 @@
+{
+	"name": "sqldbkey",
+	"properties": {
+		"annotations": [],
+		"type": "AzureKeyVault",
+		"typeProperties": {
+			"baseUrl": "https://empsqlkey.vault.azure.net/"
+		}
+	}
+}
