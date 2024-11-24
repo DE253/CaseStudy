@@ -107,6 +107,15 @@ Used coalesce to reduce the management of too many small partitions and to optim
 ## Moving Data to Curated container
 Mount the target container and write the updated DataFrame to ADLS in delta format using append mode.
 
+## Performing join operation to list active customers
+
+1. Load Partitioned Data
+
+Load files df1, df2, df3, df4 from the curated container into dataframes address_df, city_df, country_df , and customer_df respectively.
+
+2. Filter Active Customers and join the tables. Finally select the required columns and form a single table.
+
+3. Then save this in delta format in staging container.
 
 
 
