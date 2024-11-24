@@ -102,6 +102,12 @@ Analyze partitions with : df.rdd.getNumPartitions()
 Count number of rows for better understanding with row_count = df.count()
 Then, repartition for better balance and increase parllelism with : df = df.repartition(10) 
 
+Used coalesce to reduce the management of too many small partitions and to optimize resource utilization df=df.coalesce().
+
+## Moving Data to Curated container
+Mount the target container and write the updated DataFrame to ADLS in delta format using append mode.
+
+
 
 
 
