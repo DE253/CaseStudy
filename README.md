@@ -69,7 +69,38 @@ select * from Employees
     Validate and debug the pipeline. All the files moved to raw container. 
 
    
+## Cleaning and storing the data in curated container
 
+Create databricks resource and launch workspace.
+Create a cluster with unrestricted policy, single node, and access mode - no isolation shared. For performance, select runtime as 15.4 LTS, node type - Standard_DS3_v2.
+
+Then created a folder Retail CS in workspace and opened a new notebook.
+
+### Accessing storage account through service principal
+Go to app registrations in Microsoft Entra ID and and create a new app. In the overview, copy the client ID and directory id.
+Then create secrets within that app and copy the client secret value. Use Key vault to encrypt this value.
+
+Issue  Storage Blob Data Reader and  Storage Blob Data Contributor role for the app in the storage account (IAM) to establish connection and accessibility to databricks.
+
+Use the client ID, directory id, and client secret for databricks to access storage account.
+
+### Reading and transforming tables
+Then mount the storage container and check if the mount was successful.
+
+Define Schema for all the tables and read data in each table.
+
+Performed transformations b dropping last_update column in all tables and address2 column from address table.
+
+## Troubleshooting scenarios
+
+### Enable Adaptive Query Execution (AQE)
+Enable AQE to optimise skewed data and perform join operation better.
+spark.conf.set("spark.sql.adaptive.enabled", "true")
+
+### Adjust Partitioning
+Analyze partitions with : df.rdd.getNumPartitions()
+Count number of rows for better understanding with row_count = df.count()
+Then, repartition for better balance and increase parllelism with : df = df.repartition(10) 
 
 
 
