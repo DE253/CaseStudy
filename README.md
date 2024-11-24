@@ -109,7 +109,14 @@ Mount the target container and write the updated DataFrame to ADLS in delta form
 
 ## Performing join operation to list active customers
 
-1. Load Partitioned Data
+We need to retrieve a list of active customers along with their associated address, city, and country information. The data should be filtered for only active customers (activebool = TRUE). For each customer, the following details are needed:
+
+Customer Information: customer_id, first_name, last_name, email, active (status of the customer)
+Address Information: address, district, postal_code, phone
+City Information: city
+Country Information: country
+
+1. Load Partitioned Data from curated container
 
 Load files df1, df2, df3, df4 from the curated container into dataframes address_df, city_df, country_df , and customer_df respectively.
 
