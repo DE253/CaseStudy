@@ -27,7 +27,7 @@ VALUES (3, 'Jose', 'Portilla', '1997-11-03', '2010-01-01', 100),
 
 select * from Employees
 
-![alt text](C:\Users\deept\OneDrive\Desktop\DE Prep\Case Study 1\SQL server data.jpg)
+![on-prem SS](C:\Users\deept\OneDrive\Desktop\DE Prep\Case Study 1\SQL server data.jpg)
 
 ## Create pipeline for daata ingestion into the datalake storage
 
