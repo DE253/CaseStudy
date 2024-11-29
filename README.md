@@ -3,10 +3,12 @@ This case study entails  ingesting data from database server and http API into t
 ## Created a resource group - Casestudy1
 Within this resource group, created a database (sourcedb), data factory (servertoraw) and a data lake storage account (dlretail).
 ## Inserting data in database
-Using SQL Scripts in Azure SQL Database
-1. Go to the Azure Portal, navigate to SQL Database, and open the Query Editor.
-2. Run a script to create a table and add data:
+Download Microsoft SQL Server 2022 & SSMS 20
+Open SSMS and create a new Query
+
 ### SQL code
+Create database retail;
+
 DROP TABLE IF EXISTS Employees;
 
 CREATE TABLE Employees (
@@ -24,6 +26,8 @@ VALUES (3, 'Jose', 'Portilla', '1997-11-03', '2010-01-01', 100),
 	   (5, 'Sid', 'Peter', '1996-11-03', '2020-01-01', 87);
 
 select * from Employees
+
+![alt text](SQL server data.jpg)
 
 ## Create pipeline for daata ingestion into the datalake storage
 
